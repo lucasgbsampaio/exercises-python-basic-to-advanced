@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="62371dbb-a3db-4203-9514-42bfe4321f01" name="Default Changelist" comment="" />
+    <list default="true" id="62371dbb-a3db-4203-9514-42bfe4321f01" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/hackerrank/advanced/01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank/medium/01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/urionlinejudge/advanced/01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/urionlinejudge/easy/01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/urionlinejudge/medium/01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
