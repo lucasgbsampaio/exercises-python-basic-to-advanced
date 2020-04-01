@@ -12,6 +12,7 @@ Feel free to learn together with me, i'll always be updating this repository.
 ## Below are the sites used:
 
 <a href = "hackerrank.com">HackerRank</a>
+
 <a href = "urionlinejudge.com">URI Online Judge</a>
 
 # Exercícios-Python-Básico-Ao-Avançado
