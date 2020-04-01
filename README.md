@@ -11,9 +11,9 @@ Feel free to learn together with me, i'll always be updating this repository.
 
 ## Below are the sites used:
 
-<a href = "hackerrank.com">HackerRank</a>
+<a href = "https://www.hackerrank.com/">HackerRank</a>
 
-<a href = "urionlinejudge.com">URI Online Judge</a>
+<a href = "https://www.urionlinejudge.com/">URI Online Judge</a>
 
 # Exercícios-Python-Básico-Ao-Avançado
 
@@ -23,6 +23,6 @@ Sinta-se livre para aprender comigo, sempre atualizarei este repositório.
 
 ## Abaixo estão os sites usados:
 
-<a href = "hackerrank.com">HackerRank</a>
+<a href = "https://www.hackerrank.com/">HackerRank</a>
 
-<a href = "urionlinejudge.com">URI Online Judge</a>
+<a href = "https://www.urionlinejudge.com/">URI Online Judge</a>
