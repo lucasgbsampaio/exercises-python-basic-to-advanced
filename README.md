@@ -22,3 +22,7 @@ Irei resolver exercícios em python para melhorar minhas habilidades e espero me
 Sinta-se livre para aprender comigo, sempre atualizarei este repositório.
 
 ## Abaixo estão os sites usados:
+
+<a href = "hackerrank.com">HackerRank</a>
+
+<a href = "urionlinejudge.com">URI Online Judge</a>
