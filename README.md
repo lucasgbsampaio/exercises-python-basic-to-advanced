@@ -13,7 +13,7 @@ Feel free to learn together with me, i'll always be updating this repository.
 
 <a href = "https://www.hackerrank.com/">HackerRank</a>
 
-<a href = "https://www.urionlinejudge.com/">URI Online Judge</a>
+<a href = "https://www.urionlinejudge.com.br/judge/en/login">URI Online Judge</a>
 
 # Exercícios-Python-Básico-Ao-Avançado
 
@@ -25,4 +25,4 @@ Sinta-se livre para aprender comigo, sempre atualizarei este repositório.
 
 <a href = "https://www.hackerrank.com/">HackerRank</a>
 
-<a href = "https://www.urionlinejudge.com/">URI Online Judge</a>
+<a href = "https://www.urionlinejudge.com.br/judge/en/login">URI Online Judge</a>
