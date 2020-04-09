@@ -20,6 +20,7 @@ Print the item_name and net_price in order of its first occurrence.
 
 from collections import OrderedDict
 
+
 ordered_dictionary = OrderedDict()
 for i in range(int(input())):
     item, space, quantity = input().rpartition(' ')

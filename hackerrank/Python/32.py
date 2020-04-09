@@ -15,6 +15,7 @@ The next m lines contains the words belonging to group B.
 """
 from collections import defaultdict
 
+
 n, m = map(int, input().split())
 default = defaultdict(list)
 list1 = []

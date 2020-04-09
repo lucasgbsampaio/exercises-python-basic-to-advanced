@@ -18,6 +18,7 @@ The next N lines contain the space separated values of the shoe size desired by 
 
 from collections import Counter
 
+
 shoes = int(input())
 list_sizes = Counter(map(int, input().split()))
 customers = int(input())

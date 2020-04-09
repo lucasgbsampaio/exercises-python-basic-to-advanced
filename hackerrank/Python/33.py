@@ -28,5 +28,6 @@ Print the average marks of the list corrected to 2 decimal places.
 """
 from collections import namedtuple
 
+
 n, Student = int(input()), namedtuple('Student', input())
 print("{:.2f}".format(sum([int(Student(*input().split()).MARKS) for _ in range(n)]) / n))
